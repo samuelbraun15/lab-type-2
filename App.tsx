@@ -4,7 +4,7 @@ import { StyleSheet, Text, View, Pressable, Alert } from 'react-native';
 const groupMembers = [
   { name: "sam", github_repo: "samuelbraun15", group_no: "2" },
   { name: "merilyne", github_repo: "merilyne", group_no: "2" },
-  { name: "anne", github_repo: "annie.ala", group_no: "2" },
+  { name: "anne", github_repo: "annieala", group_no: "2" },
 ];
 
 export default function App() {
