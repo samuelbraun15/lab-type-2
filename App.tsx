@@ -34,5 +34,6 @@ const styles = StyleSheet.create({
     paddingTop: 60,
     alignItems: 'center',
     justifyContent: 'flex-start',
+    backgroundColor: 'white',
   },
 });
