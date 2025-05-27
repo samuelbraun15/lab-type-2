@@ -19,8 +19,8 @@ export default function App() {
       ))}
 
       <Pressable
-        onPress={() => Alert.alert("Lab 1 done")}
-        style={{ marginTop: 20, backgroundColor: 'lightblue', padding: 10 }}
+        onPress={() => Alert.alert("lab 1 Done")}
+        style={{ marginTop: 20, backgroundColor: 'Light Blue', padding: 10 }}
       >
         <Text>Show Alert</Text>
       </Pressable>
